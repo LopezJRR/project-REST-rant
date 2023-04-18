@@ -1,7 +1,6 @@
 {
   "name": "rest-rant",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,14 @@
   },
   "nodemonConfig": {
     "ext": "js,html,json,jsx,mjs"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LopezJRR/project-REST-rant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LopezJRR/project-REST-rant/issues"
+  },
+  "homepage": "https://github.com/LopezJRR/project-REST-rant#readme",
+  "description": ""
 }
